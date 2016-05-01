@@ -1,0 +1,9 @@
+@font-face {font-family: 'Slabo 27px', serif;}
+
+* {font-family: 'Slabo 27px', serif;}  /* Setting font for the whole document */
+
+
+ body {
+     background-color: #F0F1F5;
+     color: #112233;
+ }

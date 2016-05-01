@@ -1,0 +1,42 @@
+@font-face {font-family: 'Slabo 27px', serif;}
+
+* {font-family: 'Slabo 27px', serif;}  /* Setting font for the whole document */
+
+
+ body {
+     background-color: #F0F1F5;
+     color: #112233;
+ }
+
+.container {
+    text-align: center;
+}
+ .quote-box {
+     margin: 60px;
+     display: block;
+ }
+
+ .quote-box-text {
+     margin: 40px;
+     min-height: 150px;
+     height: 100%;
+     width: 30%;
+     margin: auto;
+     border: solid 2px #112233;
+     padding: 10px;
+ }
+
+ .button-box {
+     margin-top: 20px;
+     width: 100%;
+ }
+
+ .button-box button {
+     color: #F0F1F5;
+     background-color: #112233;
+     outline: none;
+     border: none;
+     display: table-cell;
+     font-size: 1.5em;
+     vertical-align: middle;
+ }

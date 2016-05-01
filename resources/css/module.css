@@ -1,0 +1,20 @@
+.quote-box {
+    width: 45%;
+    margin: 0 auto;
+}
+
+.quote-box-text {
+    height: 150px;
+    border: solid 2px #112233;
+    height: 150px;
+}
+
+.button-box {
+    padding: 10px 0 0 10px;
+    width: 100%;
+}
+
+buttons {
+    float: left;
+
+}
